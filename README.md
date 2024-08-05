@@ -1,3 +1,2 @@
-# My-demo
-My first repository 
-author amir
+this is a portfolio
+using html and css 
